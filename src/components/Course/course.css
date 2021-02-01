@@ -1,0 +1,27 @@
+.title{
+    font-size:17px
+}
+.name{
+    font-size:14px;
+    color: #73726c;
+    line-height:4px
+}
+.rating{
+       color: #be5a0e;
+}
+.info{
+    font-size: 13px;
+    line-height:5px
+}
+.price{
+    line-height: 2px;
+}
+.icon{
+    color: black;
+    margin-right: 5px;
+    Width:100px
+}
+.enrollBtn{
+    margin: 0 auto;
+    text-align: center
+}

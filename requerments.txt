@@ -1,0 +1,7 @@
+requirements:{
+    1: 12/15 course kono ekta page dekhate hobe{
+        title, button, pic
+    }
+    2: button click korbe course ta button add hobe with price
+    3: bootsrap use korte hobe 
+}
